@@ -76,9 +76,10 @@ for (char, frequency) in freq:
 ```
 
 ## Output:
+![DIP NEW](https://user-images.githubusercontent.com/75241177/174433495-e273b18c-5dee-4550-a692-947518b0b5fe.png)
 
 ### Print the characters and its huffmancode
-![image](./img/output.png)
+![image]
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
